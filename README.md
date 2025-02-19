@@ -2,7 +2,7 @@
 
 ## Tentang Saya
 
-Saya adalah seorang mahasiswa tingkat akhir dengan pengalaman dalam Pengembangan Web dan Pengujian Perangkat Lunak. Saya memiliki keahlian dalam PHP Framework, JavaScript, SQL, dan Google Cloud.
+Saya adalah seorang mahasiswa dan santri stfq bandung t dengan pengalaman dalam Pengembangan Web dan Pengujian Perangkat Lunak. Saya memiliki keahlian dalam PHP Framework, JavaScript, SQL, dan Google Cloud serta pengeditan foto
 
 ## Fitur Portfolio
 
